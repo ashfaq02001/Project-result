@@ -23,4 +23,4 @@ The Student Exam Results Viewer is a web application designed to help students a
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries or support, please contact mohammedashfaq798@gmail.com.
+For any inquiries or support, please contact mohammedashfaq798@gmail.com
