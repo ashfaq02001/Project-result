@@ -10,14 +10,14 @@ The Student Exam Results Viewer is a web application designed to help students a
 - Data Security: Ensures user data protection with secure database handling.
 
 ## Technology Stack
--Frontend: HTML, CSS, JavaScript, Bootstrap 
--Backend: PHP
--Database: SQL-based database (MySQL)
+- Frontend: HTML, CSS, JavaScript, Bootstrap 
+- Backend: PHP
+- Database: SQL-based database (MySQL)
 
 ## Installation
 ### Prerequisites
--PHP installed on your system
--Database management tool (MySQL)
+- PHP installed on your system
+- Database management tool (MySQL)
 
 ## License
 This project is licensed under the MIT License.
